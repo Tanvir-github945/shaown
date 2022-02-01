@@ -678,3 +678,33 @@ footer span a:hover{
         line-height: 38px;
     }
 }
+
+@media (max-width: 320px) {
+    .about .about-content .left img{
+        height: 310px;
+        width: 310px;
+    }
+
+
+}
+@media (max-width: 340px) {
+    section .title::after{
+        font-size: 17px;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
