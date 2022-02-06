@@ -83,7 +83,7 @@ section .title::after{
     width: 100%;
     z-index: 999;
     padding: 15px 0;
-    background:#bfbfbf;
+    background: #666666;
     font-family: 'Ubuntu', sans-serif;
     transition: all 0.3s ease;
 }
