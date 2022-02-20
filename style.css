@@ -189,7 +189,7 @@ section .title::after{
 .home .max-width{
   width: 100%;
   display: flex;
-  z-index: 1;
+  z-index: 999;
 }
 .home .max-width .row{
   margin-right: 0;
