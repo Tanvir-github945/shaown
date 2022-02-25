@@ -95,6 +95,7 @@ section .title::after{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    background: #66000000;
 }
 .navbar .logo a{
     color: #fff;
