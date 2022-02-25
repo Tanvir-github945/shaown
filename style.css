@@ -83,7 +83,7 @@ section .title::after{
     width: 100%;
     z-index: 999;
     padding: 30px 0;
-    background: #66000000;
+    background: black;
     font-family: 'Ubuntu', sans-serif;
     transition: all 0.3s ease;
 }
@@ -95,7 +95,7 @@ section .title::after{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background: #66000000;
+    
 }
 .navbar .logo a{
     color: #fff;
